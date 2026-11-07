@@ -133,3 +133,9 @@ connections used for the LEDs, push button, and LCD.
 
 [View the Circuit Diagram](./CS350_Milestone3_State_Machine.drawio%20%281%29.pdf)
 
+## Project Demonstration
+
+Watch the Raspberry Pi Morse Code System in action:
+
+[Watch Demonstration Video](https://youtube.com/shorts/MphL2N3OhcA?feature=share)
+
