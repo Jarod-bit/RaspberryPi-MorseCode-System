@@ -125,3 +125,11 @@ Bachelor of Science in Computer Science — In Progress
 Southern New Hampshire University
 
 GitHub: https://github.com/Jarod-bit
+
+## Circuit Diagram
+
+The circuit diagram documents the Raspberry Pi GPIO
+connections used for the LEDs, push button, and LCD.
+
+[View the Circuit Diagram](./CS350_Milestone3_State_Machine.drawio%20%281%29.pdf)
+
